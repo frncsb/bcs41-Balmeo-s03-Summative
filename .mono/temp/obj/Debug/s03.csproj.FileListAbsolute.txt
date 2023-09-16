@@ -1,0 +1,9 @@
+C:\Users\Balmeo\Documents\bcs41-Balmeo\s03\.mono\temp\bin\Debug\s03.dll
+C:\Users\Balmeo\Documents\bcs41-Balmeo\s03\.mono\temp\bin\Debug\s03.pdb
+C:\Users\Balmeo\Documents\bcs41-Balmeo\s03\.mono\temp\obj\Debug\s03.csproj.AssemblyReference.cache
+C:\Users\Balmeo\Documents\bcs41-Balmeo\s03\.mono\temp\obj\Debug\s03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balmeo\Documents\bcs41-Balmeo\s03\.mono\temp\obj\Debug\s03.AssemblyInfoInputs.cache
+C:\Users\Balmeo\Documents\bcs41-Balmeo\s03\.mono\temp\obj\Debug\s03.AssemblyInfo.cs
+C:\Users\Balmeo\Documents\bcs41-Balmeo\s03\.mono\temp\obj\Debug\s03.csproj.CoreCompileInputs.cache
+C:\Users\Balmeo\Documents\bcs41-Balmeo\s03\.mono\temp\obj\Debug\s03.dll
+C:\Users\Balmeo\Documents\bcs41-Balmeo\s03\.mono\temp\obj\Debug\s03.pdb
