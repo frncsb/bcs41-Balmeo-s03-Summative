@@ -43,9 +43,5 @@ public class Scenes : Node2D
         /*Mini-Activity
         WASD Movement
         */ 
-
     }
-   
-
-
 }
