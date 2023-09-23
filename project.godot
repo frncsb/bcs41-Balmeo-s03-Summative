@@ -11,7 +11,13 @@ config_version=4
 [application]
 
 config/name="s03"
-run/main_scene="res://Scenes.tscn"
+run/main_scene="res://Level.tscn"
+
+[display]
+
+window/size/width=1280
+window/size/height=720
+window/size/resizable=false
 
 [gui]
 

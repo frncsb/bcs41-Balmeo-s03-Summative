@@ -4,8 +4,8 @@ using System.Diagnostics;
 
 public class Scenes : Node2D
 {
-    private Sprite _icon;
-    private Vector2 _startPosition = new Vector2(-50, 150);
+    // private Sprite _icon;
+    // private Vector2 _startPosition = new Vector2(-50, 150);
     public override void _Ready()
     {
         //GD.Print("Hello");

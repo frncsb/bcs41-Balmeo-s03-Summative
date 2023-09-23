@@ -1,0 +1,11 @@
+test, 11, Win
+bob, 11, Win
+name=Test2, score=11, result=Win
+name=Kirk, score=11, result=Win
+name=charles, score=11, result=Win
+name=francis, score=11, result=Win
+name=test, score=0, result=Lose
+name=TEST, score=11, result=Win
+name=Cy, score=11, result=Win
+name=Francis2, score=11, result=Win
+name=Bob, score=8, result=Lose

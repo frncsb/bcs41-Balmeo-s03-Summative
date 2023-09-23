@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Arcade Machanical Bling Sound Effect.mp3-12c394e87b6c385f8262315c047a88d1.mp3str"
+
+[deps]
+
+source_file="res://My Assets/Arcade Machanical Bling Sound Effect.mp3"
+dest_files=[ "res://.import/Arcade Machanical Bling Sound Effect.mp3-12c394e87b6c385f8262315c047a88d1.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
